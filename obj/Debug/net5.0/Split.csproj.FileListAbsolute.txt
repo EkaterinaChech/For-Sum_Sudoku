@@ -1,0 +1,16 @@
+C:\Users\ekaterinac\source\repos\Split\Split\bin\Debug\net5.0\Split.exe
+C:\Users\ekaterinac\source\repos\Split\Split\bin\Debug\net5.0\Split.deps.json
+C:\Users\ekaterinac\source\repos\Split\Split\bin\Debug\net5.0\Split.runtimeconfig.json
+C:\Users\ekaterinac\source\repos\Split\Split\bin\Debug\net5.0\Split.runtimeconfig.dev.json
+C:\Users\ekaterinac\source\repos\Split\Split\bin\Debug\net5.0\Split.dll
+C:\Users\ekaterinac\source\repos\Split\Split\bin\Debug\net5.0\ref\Split.dll
+C:\Users\ekaterinac\source\repos\Split\Split\bin\Debug\net5.0\Split.pdb
+C:\Users\ekaterinac\source\repos\Split\Split\obj\Debug\net5.0\Split.csproj.AssemblyReference.cache
+C:\Users\ekaterinac\source\repos\Split\Split\obj\Debug\net5.0\Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekaterinac\source\repos\Split\Split\obj\Debug\net5.0\Split.AssemblyInfoInputs.cache
+C:\Users\ekaterinac\source\repos\Split\Split\obj\Debug\net5.0\Split.AssemblyInfo.cs
+C:\Users\ekaterinac\source\repos\Split\Split\obj\Debug\net5.0\Split.csproj.CoreCompileInputs.cache
+C:\Users\ekaterinac\source\repos\Split\Split\obj\Debug\net5.0\Split.dll
+C:\Users\ekaterinac\source\repos\Split\Split\obj\Debug\net5.0\ref\Split.dll
+C:\Users\ekaterinac\source\repos\Split\Split\obj\Debug\net5.0\Split.pdb
+C:\Users\ekaterinac\source\repos\Split\Split\obj\Debug\net5.0\Split.genruntimeconfig.cache
